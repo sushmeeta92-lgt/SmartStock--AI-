@@ -28,14 +28,21 @@ The architecture is designed for scalability, automation, and real-time insights
 Process Flow: <img width="960" height="540" alt="1000035857" src="https://github.com/user-attachments/assets/63e0e0e1-5a30-4f24-bf67-15f6406cda12" />
  
 🧰 Tech Stack
-Snowflake
-Dynamic Tables
-Streams
-SQL – Inventory analysis & transformations
-Python (Proposed) – AI prediction logic
+• Snowflake
+• Dynamic Tables
+• Streams
+• SQL – Inventory analysis & transformations
+• Python (Proposed) – AI prediction logic
 Visualization Tools
-Power BI / Streamlit (Prototype)
-GitHub – Project documentation and collaboration
+• Power BI / Streamlit (Prototype)
+• GitHub – Project documentation and collaboration
+
+Sample of SQL Implementation: 
+![1000035904](https://github.com/user-attachments/assets/a2711814-caa8-4040-8f66-c0691c451519)
+![1000035903](https://github.com/user-attachments/assets/e1ecde8b-9af2-4d43-a1d7-62164243484e)
+![1000035902](https://github.com/user-attachments/assets/b5dec94c-61ed-4de4-9b75-200447f344c8)
+![1000035900](https://github.com/user-attachments/assets/a82beb0c-4f48-4fbc-9199-755830f05d87)
+![1000035899](https://github.com/user-attachments/assets/812346c1-1637-4a3c-bb0f-ebe6ce52a846)
 
 🤖 AI Component
 The AI logic analyzes:
@@ -55,7 +62,7 @@ SmartStock AI directly supports the AI for Good mission by:
 • Improving operational efficiency in low-resource settings
 This project demonstrates how AI can be applied ethically and responsibly for social impact.
 
-Prototype images:
+Prototype Collage images:
 <img width="960" height="540" alt="1000035860" src="https://github.com/user-attachments/assets/2f320762-be7e-49eb-88ce-09b7c35dace5" />
 
 Demo video link:
